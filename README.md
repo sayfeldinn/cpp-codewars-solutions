@@ -30,14 +30,14 @@ Each `.cpp` file contains:
 | Date       | Kata Level | Problem Name           | Status  |
 |------------|------------|------------------------|---------|
 | 2025-08-01 | 8kyu       | Invert values      | ✅ Done |
-| 2025-08-02 | 8kyu       | Quarter of the year    | ✅ Done |
-| 2025-08-02 | 8kyu       | Price of Mangoes     | ✅ Done |
-| 2025-08-02 | 8kyu       | Convert a Boolean to a String   | ✅ Done |
-| 2025-08-02 | 8kyu       | Reversed Strings     | ✅ Done |
-| 2025-08-02 | 8kyu       | Is n divisible by x and y?     | ✅ Done |
-| 2025-08-02 | 8kyu       | Century From Year     | ✅ Done |
-| 2025-08-02 | 8kyu       | Simple multiplication    | ✅ Done |
-| 2025-08-02 | 8kyu       | Even or Odd     | ✅ Done |
+| 2025-08-01 | 8kyu       | Quarter of the year    | ✅ Done |
+| 2025-08-01 | 8kyu       | Price of Mangoes     | ✅ Done |
+| 2025-08-01 | 8kyu       | Convert a Boolean to a String   | ✅ Done |
+| 2025-08-01 | 8kyu       | Reversed Strings     | ✅ Done |
+| 2025-08-01 | 8kyu       | Is n divisible by x and y?     | ✅ Done |
+| 2025-08-01 | 8kyu       | Century From Year     | ✅ Done |
+| 2025-08-01 | 8kyu       | Simple multiplication    | ✅ Done |
+| 2025-08-01 | 8kyu       | Even or Odd     | ✅ Done |
 | ...        | ...        | ...                    | ...     |
 
 ---
